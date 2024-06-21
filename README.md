@@ -1,3 +1,2 @@
-# tokyo-metropolitan-assembly-analysis-20240615
-
-https://takahiroanno2024.github.io/tokyo-metropolitan-assembly-analysis-20240615/
+# !!!DEPRECARED!!!
+See https://github.com/takahiroanno2024/tokyoai-analysis
